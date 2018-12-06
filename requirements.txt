@@ -1,0 +1,5 @@
+chaostoolkit>=1.0.0rc1
+chaostoolkit-opentracing
+chaostoolkit-istio
+chaostoolkit-humio
+-e chaoskubecon
