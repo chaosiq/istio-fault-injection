@@ -1,5 +1,7 @@
 chaostoolkit>=1.0.0rc1
 chaostoolkit-opentracing
+opentracing>=1.2.2,<2
+jaeger-client==3.10.0
 chaostoolkit-istio
 chaostoolkit-humio
 -e chaoskubecon
